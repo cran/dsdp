@@ -1,7 +1,7 @@
-ef1f6a6b0acc9f1a6265c98b4a3dfea6 *DESCRIPTION
+c671a3589df4836a32c42a7888ef5d4c *DESCRIPTION
 642cbef5617a633ff2f934c9f5c68c75 *LICENSE
 bb05e2547da37ca47e1708819131807f *NAMESPACE
-f56428ffe34b1ae2dd89109d831a0de5 *NEWS.md
+3371b4d2e868ba3d6ebc8e12a12a556f *NEWS.md
 ed9b9c5015de587129cdd0a6f40ee82b *R/auxiliaries.r
 3c78e53cb197133590cbba7b01f6fb3e *R/common.r
 dcb18bbd518519edf5a7f5cea4f03152 *R/dataset.r
@@ -9,7 +9,7 @@ dcb18bbd518519edf5a7f5cea4f03152 *R/dataset.r
 fbcbbc0148373bf6f57c5df7cb4884f6 *R/expmodel.r
 ebf3c148bc490320a946ce9933760216 *R/gaussmodel.r
 44b1e75706093d98f1374d3120a44de1 *README.md
-1cb8486e007f9a21e392e7e5d6c74eb3 *build/vignette.rds
+21a3b96989742323034c15affc7115b6 *build/vignette.rds
 872152e354841ffd86241076c50492b4 *data/mix2gauss.rda
 7e85fe5710a985c928830a77b4ba32ef *data/mix2gaussHist.rda
 ee2d6c5977cce20308c5368c79a02d30 *data/mix3gauss.rda
@@ -17,7 +17,7 @@ ee2d6c5977cce20308c5368c79a02d30 *data/mix3gauss.rda
 69784082cb0f79e36919383a91152eae *data/mixexpgamma.rda
 a28a5d940345782aeba76776e8bd48bf *inst/doc/Tutorial.R
 3120e5bf30cabae37cee1592ee354bf1 *inst/doc/Tutorial.Rmd
-0d231c449c4efa485e94dd86bdb06c9a *inst/doc/Tutorial.pdf
+ef150337b19658047bc32ef71453c8e5 *inst/doc/Tutorial.pdf
 d40e91aac5480a0d1fe56c8b6994f599 *man/cdf_expmodel.Rd
 68daeed293d52e68b4d1d316e1599e8a *man/cdf_gaussmodel.Rd
 99d3ae4ee14332c481ada12b00a30eb1 *man/databinning.Rd
@@ -79,7 +79,7 @@ d25183d45b44ead2c9ef8d0a6a40250c *src/slatec/d9lgmc.f
 b1e632b1ade970ab9af5756053b2e11e *src/slatec/dcsevl.f
 177acd9ec67d3676b55c84d47f2e2b87 *src/slatec/dgami.f
 e8a3aff02d436db34597a327c745e3ff *src/slatec/dgamic.f
-45e25f6da3416a9e356d9089611a81ee *src/slatec/dgamit.f
+4eca96dee6e3d4f59d930a031d91f4d6 *src/slatec/dgamit.f
 6a876c9664e4198c98ae09eb97b3f975 *src/slatec/dgamlm.f
 070809c49bf9db9d6cea6a7f2d96dc8f *src/slatec/dgamm0.f
 ac4d37215e67eac09bdb7c8b0ecba2ea *src/slatec/dgamr.f

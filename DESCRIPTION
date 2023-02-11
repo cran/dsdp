@@ -1,6 +1,6 @@
 Package: dsdp
 Title: Density Estimation with Semidefinite Programming
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Satoshi", "Kakihara",,email = "skakihara@gmail.com",
         role = c("aut", "cre")),
@@ -25,9 +25,9 @@ License: MIT + file LICENSE
 URL: https://tsuchiya-lab.github.io/dsdp/
 BugReports: https://github.com/tsuchiya-lab/dsdp/issues
 NeedsCompilation: yes
-Packaged: 2022-12-02 18:04:33 UTC; skaki
+Packaged: 2023-02-08 15:47:17 UTC; skaki
 Author: Satoshi Kakihara [aut, cre],
   Takashi Tsuchiya [aut]
 Maintainer: Satoshi Kakihara <skakihara@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-12-05 10:30:04 UTC
+Date/Publication: 2023-02-11 10:10:20 UTC
