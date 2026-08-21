@@ -184,7 +184,7 @@ C           LEVEL=-1 logic, changed calls to XERSAV to XERSVE, and
 C           XERCTL to XERCNT.  (RWC)
 C   920501  Reformatted the REFERENCES section.  (WRB)
 C***END PROLOGUE  XERMSG
-      CHARACTER*(*) LIBRAR, SUBROU, MESSG
+      CHARACTER(LEN=*) LIBRAR, SUBROU, MESSG
       CHARACTER XLIBR*8, XSUBR*8
       CHARACTER  TEMP*72
       CHARACTER  LFIRST*20

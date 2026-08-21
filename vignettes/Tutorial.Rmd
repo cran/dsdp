@@ -85,7 +85,7 @@ library(dsdp)
 ```
 This package requires `ggplot2` for displaying histograms and
 density functions.
-`ggplot2` is a part of [`tidyverse`](https://www.tidyverse.org),
+`ggplot2` is a part of [`tidyverse`](https://tidyverse.org),
 a de facto standard for data wrangling in R.
 Our `plot` method returns `ggplot2` objects, so if you plan to add the
 title or change the labels in the graphs, it is better to import `ggplot2` too.

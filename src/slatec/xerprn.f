@@ -74,7 +74,7 @@ C   891214  Prologue converted to Version 4.0 format.  (WRB)
 C   900510  Added code to break messages between words.  (RWC)
 C   920501  Reformatted the REFERENCES section.  (WRB)
 C***END PROLOGUE  XERPRN
-      CHARACTER*(*) PREFIX, MESSG
+      CHARACTER(LEN=*)PREFIX, MESSG
       INTEGER NPREF, NWRAP
       CHARACTER CBUFF*148
       INTEGER IU(5), NUNIT

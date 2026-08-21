@@ -61,7 +61,7 @@ SEXP rsolve_GaussModel(SEXP d_, SEXP mu_, SEXP sig_, SEXP data_, SEXP chat_,
     // if (info != 0)
     // {
     //     UNPROTECT(pcnt);
-    //     return allocSExp(NILSXP);
+    //     return R_NilValue;
     // }
 
     if (info == 0)
@@ -172,7 +172,7 @@ SEXP rsolve_ExpModel(SEXP d_, SEXP lmd_, SEXP data_, SEXP chat_, SEXP verbose_,
     // if (info != 0)
     // {
     //     UNPROTECT(pcnt);
-    //     return allocSExp(NILSXP);
+    //     return R_NilValue;
     // }
 
     if (info == 0)
@@ -510,7 +510,7 @@ SEXP rcdf_polygauss(SEXP coeff_, SEXP mu_, SEXP sig_, SEXP xv_)
     if (info != 0)
     {
         UNPROTECT(pcnt);
-        return allocSExp(NILSXP);
+        return R_NilValue;
     }
 
     UNPROTECT(pcnt);
@@ -555,7 +555,7 @@ SEXP rcdf_polyggamma(SEXP coeff_, SEXP alpha_, SEXP lmd_, SEXP p_, SEXP xv_)
     if (info != 0)
     {
         UNPROTECT(pcnt);
-        return allocSExp(NILSXP);
+        return R_NilValue;
     }
 
     UNPROTECT(pcnt);
@@ -582,7 +582,7 @@ SEXP rigamma(SEXP a_, SEXP x_)
     if (na != nx)
     {
         UNPROTECT(pcnt);
-        return allocSExp(NILSXP);
+        return R_NilValue;
     }
 
     z_ = PROTECT(allocVector(REALSXP, na));
@@ -628,7 +628,7 @@ SEXP ricgamma(SEXP a_, SEXP x_)
     if (na != nx)
     {
         UNPROTECT(pcnt);
-        return allocSExp(NILSXP);
+        return R_NilValue;
     }
 
     z_ = PROTECT(allocVector(REALSXP, na));
