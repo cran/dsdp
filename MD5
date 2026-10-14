@@ -1,7 +1,7 @@
-cbd4526fbc84509037beaab3ffc650e4 *DESCRIPTION
+0b53c809cd51df0e7fbfaca2992932d2 *DESCRIPTION
 642cbef5617a633ff2f934c9f5c68c75 *LICENSE
 bb05e2547da37ca47e1708819131807f *NAMESPACE
-a017bb3b28b1239bf905f813705783a5 *NEWS.md
+b6326efa30e72fc962aed0cd4352ad5d *NEWS.md
 5f7f5ba5af85ba3b4a4ea2820f7d5d98 *R/auxiliaries.r
 c8ffa770503731759471d59b84b2b833 *R/common.r
 656af7e87388f610ee32085a8c313001 *R/dataset.r
@@ -17,7 +17,7 @@ ee2d6c5977cce20308c5368c79a02d30 *data/mix3gauss.rda
 69784082cb0f79e36919383a91152eae *data/mixexpgamma.rda
 f3c94ffa76b6718b6dea40c3072e3170 *inst/doc/Tutorial.R
 1a0e5bb9fd6653e87dfaef41688f4b63 *inst/doc/Tutorial.Rmd
-6a6631cfb0e1e7df51798ba4b5838b61 *inst/doc/Tutorial.pdf
+927354aabe7d77a1a26b5abfa504f61f *inst/doc/Tutorial.pdf
 d40e91aac5480a0d1fe56c8b6994f599 *man/cdf_expmodel.Rd
 68daeed293d52e68b4d1d316e1599e8a *man/cdf_gaussmodel.Rd
 99d3ae4ee14332c481ada12b00a30eb1 *man/databinning.Rd
@@ -79,7 +79,7 @@ d25183d45b44ead2c9ef8d0a6a40250c *src/slatec/d9lgmc.f
 b1e632b1ade970ab9af5756053b2e11e *src/slatec/dcsevl.f
 177acd9ec67d3676b55c84d47f2e2b87 *src/slatec/dgami.f
 e8a3aff02d436db34597a327c745e3ff *src/slatec/dgamic.f
-45e25f6da3416a9e356d9089611a81ee *src/slatec/dgamit.f
+4eca96dee6e3d4f59d930a031d91f4d6 *src/slatec/dgamit.f
 6a876c9664e4198c98ae09eb97b3f975 *src/slatec/dgamlm.f
 070809c49bf9db9d6cea6a7f2d96dc8f *src/slatec/dgamm0.f
 ac4d37215e67eac09bdb7c8b0ecba2ea *src/slatec/dgamr.f

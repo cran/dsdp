@@ -1,3 +1,7 @@
+## dsdp 0.1.3
+
+Fixed [-Wlto-type-mismatch].
+
 ## dsdp 0.1.2
 
 Fixed CRAN non-API call: replaced internal `allocSExp(NILSXP)` with 
